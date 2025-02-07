@@ -1,1 +1,2 @@
-# Persona_Estudiante
+# Persona_Estudiante_Lgomdom
+![img](./readmeimg.png)
